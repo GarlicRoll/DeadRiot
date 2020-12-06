@@ -1,0 +1,120 @@
+{
+    "Mob": [
+    { 
+        "Name": "Vampire",
+        "HP": 50, "Damage": 100, "Points": 2,
+        "Idle_r":"enemy/vampire/idle_r.png",
+        "Idle_l":"enemy/vampire/idle_l.png",
+        "Anim_go_r":["enemy/vampire/walk_r.png",8],
+        "Anim_go_l":["enemy/vampire/walk_l.png",8],
+        "Anim_attack_r":["enemy/vampire/attack_r.png",13],
+        "Anim_attack_l":["enemy/vampire/attack_l.png",13],
+        "Anims":
+          {
+          "Anim_spawn":["enemy/vampire/appear.png",12],
+          "Anim_death_r":["enemy/vampire/death_r.png",12],
+          "Anim_death_l":["enemy/vampire/death_l.png",12]
+          }
+        
+      },
+      { 
+        "Name": "CommonZombie",
+        "HP": 100, "Damage": 50, "Points": 1,
+        "Idle_r":"enemy/zombie/idle_r.png",
+        "Idle_l":"enemy/zombie/idle_l.png",
+        "Anim_go_r":["enemy/zombie/walk_r.png",10],
+        "Anim_go_l":["enemy/zombie/walk_l.png",10],
+        "Anim_attack_r":["enemy/zombie/attack_r.png",7],
+        "Anim_attack_l":["enemy/zombie/attack_l.png",7],
+        "Anims":  
+          {
+          "Anim_spawn":["enemy/zombie/appear.png",11],
+          "Anim_death_r":["enemy/zombie/death_r.png",8],
+          "Anim_death_l":["enemy/zombie/death_l.png",8]
+          }
+        
+      },
+      { 
+        "Name": "Skeleton",
+        "HP": 100, "Damage": 100, "Points": 3,
+        "Idle_r":"enemy/skeleton/idle_r.png",
+        "Idle_l":"enemy/skeleton/idle_l.png",
+        "Anim_go_r":["enemy/skeleton/walk_r.png",8],
+        "Anim_go_l":["enemy/skeleton/walk_l.png",8],
+        "Anim_attack_r":["enemy/skeleton/attack_r.png",8],
+        "Anim_attack_l":["enemy/skeleton/attack_l.png",8],
+        "Anims":
+          {
+          "Anim_spawn":["enemy/skeleton/appear.png",10],
+          "Anim_death_r":["enemy/skeleton/death_r.png",8],
+          "Anim_death_l":["enemy/skeleton/death_l.png",8]
+          }
+        
+      },
+      {
+        "Name": "Golem",
+        "HP": 200, "Damage": 200, "Points": 4,
+        "Idle_r":"enemy/golem/idle_r.png",
+        "Idle_l":"enemy/golem/idle_l.png",
+        "Anim_go_r":["enemy/golem/walk_r.png",6],
+        "Anim_go_l":["enemy/golem/walk_l.png",6],
+        "Anim_attack_r":["enemy/golem/attack_r.png",6],
+        "Anim_attack_l":["enemy/golem/attack_l.png",6],
+        "Anims":
+          {
+          "Anim_spawn":["enemy/golem/appear.png",15],
+          "Anim_death_r":["enemy/golem/death_r.png",7],
+          "Anim_death_l":["enemy/golem/death_l.png",7]
+          }
+      },
+      {
+        "Name": "Boss",
+        "HP": 1000, "Damage": 50, "Points": 30,
+        "Idle_r":"enemy/boss/idle_r.png",
+        "Idle_l":"enemy/boss/idle_l.png",
+        "Anim_go_r":["enemy/boss/walk_r.png",5],
+        "Anim_go_l":["enemy/boss/walk_l.png",5],
+        "Anim_attack_r":["enemy/boss/attack_r.png",7],
+        "Anim_attack_l":["enemy/boss/attack_l.png",7],
+        "Anims":
+          {
+          "Anim_spawn":["enemy/boss/appear.png",5],
+          "Anim_death_r":["enemy/boss/death_r.png",9],
+          "Anim_death_l":["enemy/boss/death_l.png",9]
+          },
+        "Spell": "Lightning"
+      }
+    ],
+
+    "Player":
+        {
+        "Name": "Grenka",
+        "HP": 300, "Damage": 50,
+        "Idle_r":"player/idle_r.png",
+        "Idle_l":"player/idle_l.png",
+        "Anim_jump_r":"player/jump_r.png",
+        "Anim_jump_l":"player/jump_l.png",
+        "Anim_go_r":["player/run_r.png",5],
+        "Anim_go_l":["player/run_l.png",5],
+        "Anim_attack_r":"player/shoot_r.png",
+        "Anim_attack_l":"player/shoot_l.png",
+        "Anim_death":"player/dead.png"
+        },
+
+    "Spell":[
+        {
+        "Name": "Lightning",
+        "Damage": 50,
+        "Idle": "spell/idle.png",
+        "Sound": "spell/sound.ogg",
+        "Anims":
+          {
+          "Anim_r": ["spell/hit_r.png", 8],
+          "Anim_l": ["spell/hit_l.png", 8]
+          }
+          
+        }
+    ]
+      
+        
+}

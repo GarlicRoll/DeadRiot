@@ -1,0 +1,129 @@
+{		
+	"Russian":{
+		"WaveCaption":"Волна ",
+		"BossWaveCaption":"Босс",
+		
+		"ButtonExit":"Выход",
+		"ButtonNewGame":"Новая игра",
+		
+		"ButtonDifficultyEasy":"Легко",
+		"ButtonDifficultyNormal":"Нормально",
+		"ButtonDifficultyHard":"Сложно",
+		
+		"ButtonLoadGame":"Загрузить игру",
+		"ButtonSaveGame":"Сохранить игру",
+		"ButtonLanguage":"Русский",
+		"ButtonEnglish":"Английский",
+		"ButtonRussian":"Русский",
+		"ButtonWindowScreen":"Оконный режим",
+		"ButtonFullScreen":"Полный экран",
+		"ButtonCredits":"Титры",
+		
+		"ButtonResume":"Продолжить",
+		"ButtonUpgrades":"Улучшения",
+		"ButtonHeal":"Лечиться",
+		"ButtonMainMenu":"Главное меню",
+		"ButtonArena":"Арена",
+		"ButtonStory":"История",
+		
+		"UpgradeDamage1":"Большие пули",
+		"UpgradeDamage2":"Лазерные пули",
+		"UpgradeSpeed":"Скороходы",
+		
+		"UpgradeHp1":"Здоровое питание",
+		"UpgradeHp2":"Плащ с подкладкой",
+		"UpgradeJump":"Прыгучие ботинки",
+		
+		"UpgradeGod":"Бог",
+		
+		"GameOver":"Игра окончена",
+		"Win":"Конец",
+		
+		"MsgA1":"Привет, тебе нужно убить всех врагов",
+		"MsgA2":"Кажется, это конец...",
+		
+		"Msg1.1":"Обещал деду навещать его раз в месяц",
+		"Msg1.2":"Завал... Нужно обойти",
+		"Msg1.3":"На стене выцарапано: 'Нельзя дать им пройти'",
+		"Msg1.4":"А где дед?",
+		
+		"Msg2.1":"Что за шум?",
+		"Msg2.2":"Нечисть? Что дед опять натворил?",
+		"Msg2.3":"Теперь нужно найти старика...",
+		
+		"Msg3.1":"Люк! Наверняка я найду ответы там",
+		"Msg3.2":"Снова зомби",
+		"Msg3.3":"Вот и выход",
+		
+		"Msg4.1":"Кладбище! Пахнет жареным...",
+		"Msg4.2":"Вроде всё",
+		"Msg4.3":"Что это? Дедушка? Что с тобой?!",
+		"Msg4.4":"Деда: Я.. Я.. Внучек?. Кажется я доигрался. Я не управляю собой.. ААААА",
+		"Msg4.5":"Деда... Нужно было почаще навещать тебя.."
+		
+	},
+	
+	"English":{
+		"WaveCaption":"Wave ",
+		"BossWaveCaption":"Boss wave",
+		
+		"ButtonExit":"Exit",
+		"ButtonNewGame":"New game",
+		
+		"ButtonDifficultyEasy":"Easy",
+		"ButtonDifficultyNormal":"Normal",
+		"ButtonDifficultyHard":"Hard",
+		
+		"ButtonLoadGame":"Load game",
+		"ButtonSaveGame":"Save game",
+		"ButtonLanguage":"English",
+		"ButtonEnglish":"English",
+		"ButtonRussian":"Russian",
+		"ButtonWindowScreen":"Window screen",
+		"ButtonFullScreen":"Full screen",
+		"ButtonCredits":"Credits",
+		
+		"ButtonResume":"Resume",
+		"ButtonUpgrades":"Upgrades",
+		"ButtonHeal":"Heal",
+		"ButtonMainMenu":"Main menu",
+		"ButtonArena":"Arena",
+		"ButtonStory":"Story",
+		
+		"UpgradeDamage1":"Big bullets",
+		"UpgradeDamage2":"Laser bullets",
+		"UpgradeSpeed":"Speed boots",
+		
+		"UpgradeHp1":"Healthy lifestyle",
+		"UpgradeHp2":"Reinforced cloak",
+		"UpgradeJump":"Jump boots",
+		
+		"UpgradeGod":"God",
+		
+		"GameOver":"Game over",
+		"Win":"The End",
+		
+		"MsgA1":"Hello. You need to kill all enemies",
+		"MsgA2":"It seems to be the end..",
+		
+		"Msg1.1":"Promised to grandfather visit him one time in month",
+		"Msg1.2":"Avalanche... Need to get around",
+		"Msg1.3":"Scratches on the wall: 'Can't let them pass'",
+		"Msg1.4":"Where's grandpa?",
+		
+		"Msg2.1":"What's the noise?",
+		"Msg2.2":"The dead? What did grandfather do?",
+		"Msg2.3":"Now need to find old man...",
+		
+		"Msg3.1":"Hatch! Surely, I'll find answers there",
+		"Msg3.2":"The dead again",
+		"Msg3.3":"That's the way out",
+		
+		"Msg4.1":"Graveyard! Things didn't smells so healthy...",
+		"Msg4.2":"It seems over",
+		"Msg4.3":"What's it? Grandpa?! What's with you?",
+		"Msg4.4":"Grandpa: I.. I.. Kid?. Its seems I'm finished badly. I don't control myself.. AAAAA",
+		"Msg4.5":"Grandfather.. I should have visited you more often.."
+		
+	}
+}
